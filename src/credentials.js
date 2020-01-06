@@ -1,0 +1,2 @@
+export const credentials = {
+    "installed":{"client_id":"614317424083-s85jokhugs0eaibjdgvoe5pjuugjjfk9.apps.googleusercontent.com","project_id":"quickstart-1578135137601","auth_uri":"https://accounts.google.com/o/oauth2/auth","token_uri":"https://oauth2.googleapis.com/token","auth_provider_x509_cert_url":"https://www.googleapis.com/oauth2/v1/certs","client_secret":"6wZIOyB7Ruy63CKlqNKw7xx5","redirect_uris":["urn:ietf:wg:oauth:2.0:oob","http://localhost"]}}
